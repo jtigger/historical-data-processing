@@ -2,4 +2,10 @@
 	- `//<name> DD`  — **D**ata **D**efinition; which Data Set(Member) to hook up to a given name
 - Parameters
 	- `DISP=(<START>,<SUCCESS>,<FAIL>)` — Disposition
-		- `<START>` — how the Data Set (Member) should be opened/created (sharing? )
+		- `<START>` — how the Data Set (Member) should be opened/created (sharing?)
+			- `NEW` :: Create
+			- `SHR` :: re-use existing data set, sharing
+			-
+		- `<SUCCESS>` — what happens to the Data Set (Member) when the job completes successfully
+		- `<FAIL>` — what happens to the Data Set (Member) when the job fails.
+	-
