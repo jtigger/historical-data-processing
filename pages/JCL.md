@@ -1,4 +1,5 @@
 - Statements
 	- `//<name> DD`  — **D**ata **D**efinition; which Data Set(Member) to hook up to a given name
 - Parameters
-	- `DISP=()` — Disposition
+	- `DISP=(<START>,<SUCCESS>,<FAIL>)` — Disposition
+		- `<START>` — how the Data Set (Member) should be opened/created (sharing? )
