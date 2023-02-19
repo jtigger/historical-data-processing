@@ -4,8 +4,10 @@
 	- `DISP=(<START>,<SUCCESS>,<FAIL>)` — Disposition
 		- `<START>` — how the Data Set (Member) should be opened/created (sharing?)
 			- `NEW` :: Create
-			- `SHR` :: re-use existing data set, sharing
-			-
+			- `SHR` :: re-use existing data set, sharing with others
+			- `OLD` :: re-use existing data set, exclusively
+			- `MOD` :: re-use existing data set, append only
+				- applicable to Sequential Data Sets, only.
 		- `<SUCCESS>` — what happens to the Data Set (Member) when the job completes successfully
 		- `<FAIL>` — what happens to the Data Set (Member) when the job fails.
 	-
