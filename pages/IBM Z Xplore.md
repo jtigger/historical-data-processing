@@ -1,2 +1,4 @@
 - IEB* Utilities
-	- IEB stand
+	- IEB prefix comes from the original name of the program library: "Input/Output Exit and Buffer"
+		- src: ChatGPT
+		- >
