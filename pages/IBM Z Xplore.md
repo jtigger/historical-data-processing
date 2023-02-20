@@ -1,5 +1,8 @@
 - Setup
-	- running OS/390 on a z15
+	- running OS/390 on a z14
+		-
+	- https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/897/ENUS3906-_h01/index.html
+	-
 - Things I learned
 	- [[The IEB Module Library]]
 		-
