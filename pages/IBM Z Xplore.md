@@ -44,6 +44,8 @@
 			  - hardware: 3906
 			  ```
 	- https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/897/ENUS3906-_h01/index.html
+	- https://www-40.ibm.com/servers/resourcelink/lib03060.nsf/pages/z14
+	-
 	-
 - Things I learned
 	- [[The IEB Module Library]]
