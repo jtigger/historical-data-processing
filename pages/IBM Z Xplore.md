@@ -11,5 +11,7 @@
 		- Generate (Copy) a sequential data set
 		- https://www.ibm.com/docs/en/zos-basic-skills?topic=utilities-iebgener-utility-generate-copy-sequential-data-set
 		- `SYSIN` — DD for read control parameters (if necessary)
-		- `SYSPRINT` —
+		- `SYSPRINT` — DD to capture messages _from_ IEBGENER
+		- `SYSUT1` — DD for input
+		- `SYSUT2` — DD for output
 	-
