@@ -1,10 +1,11 @@
 - aka
 	- z/OS Unix
 	- USS
-	-
+- References
+	- https://en.wikipedia.org/wiki/UNIX_System_Services
+	- https://www.ibm.com/docs/en/zos-basic-skills?topic=more-zos-unix-file-systems
 - POSIX-compliant implementation of Unix.
 - z/OS treats an entire UNIX file system hierarchy as a collection of data sets. Each data set is a mountable file system.
-- https://www.ibm.com/docs/en/zos-basic-skills?topic=more-zos-unix-file-systems
 - pathnames are case-sensitive
 - the default/desired UNIX filesystem type on z/OS is zFS
 	- an entire Unix filesystem is stored on a specific Data Set type: VSAM linear data set)
