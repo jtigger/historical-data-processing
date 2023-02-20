@@ -3,4 +3,5 @@
 - https://www.ibm.com/docs/en/zos-basic-skills?topic=more-zos-unix-file-systems
 - pathnames are case-sensitive
 - the default/desired UNIX filesystem type on z/OS is zFS
-	- an entire Unix filesystem is stored on a
+	- an entire Unix filesystem is stored on a specific Data Set type: VSAM linear data set)
+-
