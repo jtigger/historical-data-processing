@@ -1,1 +1,3 @@
 - POSIX-compliant implementation of Unix.
+- z/OS treats an entire UNIX file system hierarchy as a collection of data sets. Each data set is a mountable file system.
+-
