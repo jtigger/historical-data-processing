@@ -1,5 +1,5 @@
 - Setup
-	- running OS/390 on a
+	- running OS/390 on a z15
 - Things I learned
 	- [[The IEB Module Library]]
 		-
