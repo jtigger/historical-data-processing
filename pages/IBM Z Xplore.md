@@ -32,8 +32,17 @@
 			  }
 			  ```
 		- it's output:
-		- ```
-		  ```
+		  collapsed:: true
+			- ```
+			  info -- z/OS system information
+			  
+			  Fetched system information:
+			  - OS: OS/390
+			  - node name: S0W1
+			  - release: 27.00
+			  - version: 04
+			  - hardware: 3906
+			  ```
 	- https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_sm/1/897/ENUS3906-_h01/index.html
 	-
 - Things I learned
