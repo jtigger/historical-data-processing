@@ -7,7 +7,9 @@
 			  >
 			  > Over time, the IEB utilities became widely used and were included in later versions of the operating system. Today, many of these utilities remain in use on z/OS and continue to be prefixed with "IEB" for historical reasons.
 	- IEBGENER
-		- "IEB
-		- Copy Data Sets
+		- "IEB - GENER"
+		- Generate (Copy) a sequential data set
 		- https://www.ibm.com/docs/en/zos-basic-skills?topic=utilities-iebgener-utility-generate-copy-sequential-data-set
+		- `SYSIN` — DD for read control parameters (if necessary)
+		- `SYSPRINT` —
 	-
